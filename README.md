@@ -4,6 +4,6 @@ Formerly they were a Software Engineer at [F5 Networks][f5] where they developed
 
 In their spare time they casually study chess and play ice hockey in the Kraken Hockey League. They reside in Seattle's beautiful International District with their partner and three cats.
 
-[td]: https://testdouble.com
+[td]: https://blog.testdouble.com/authors/patrick-brown/
 [f5]: https://www.f5.com
 [bt]: https://www.braintreepayments.com
